@@ -12,7 +12,7 @@ la data indiqué via les ultrasons qui permettent de savoir à quelle distance s
 ## Caractéristiques
 État du projet : Prototype /
 Nombre de participants : 1 (solo) /
-Technologies : C++/Java /
+Technologies : C++/Java / Arduino IDE 2.3.4 / Processing 4.3.1.
 Refactorisation : Non /
 Responsivité : Non /
 UX/UI : Non /
