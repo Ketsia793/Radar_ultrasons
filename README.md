@@ -1,4 +1,4 @@
-** Radar à ultrasons**
+*Radar à ultrasons*
 
 ## À propos
 Il s'agit ici d'un projet Arduino inspiré mais refondé car il y avait des erreurs dans les lignes de codes tant sur le Arduino cloud que
