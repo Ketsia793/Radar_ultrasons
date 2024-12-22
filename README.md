@@ -20,7 +20,7 @@ IDE : VSCode /
 OS : Mac /
 
 ## Utilisation
-S'exécute via Arduino cloud et Processing Cloud
+S'exécute via Arduino IDE 2.3.4 et Processing 4.3.1.
 
 ## Sources
 Youtube / Arduino 
