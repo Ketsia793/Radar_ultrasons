@@ -6,8 +6,7 @@ dans le processing cloud.
 Erreurs repérées puis corrigées :
 - au niveau des boucles for dans le Arduino cloud qui assurent le bon mouvement du servomteur sans que celui-ci soit saccadé.
 - au niveau de la reconnaissance du port par le processing cloud 
-- au niveau du balayage du grapique qui ne s'effectuait pas via le processing cloud, il a donc fallu ajouter une condition qui prenait en compte
-la data indiqué via les ultrasons qui permettent de savoir à quelle distance se situe l'objet.
+- au niveau du balayage du grapique qui ne s'effectuait pas via le processing cloud, il a donc fallu ajouter une condition qui prenait en compte la data indiqué via les ultrasons qui permettent de savoir à quelle distance se situe l'objet repéré par le capteur installé sur le servomoteur.
 
 ## Caractéristiques
 État du projet : Prototype /
@@ -16,7 +15,7 @@ Technologies : C++/Java /
 Refactorisation : Non /
 Responsivité : Non /
 UX/UI : Non /
-IDE : VSCode /Arduino IDE 2.3.4 / Processing 4.3.1.
+IDE : Arduino IDE 2.3.4 / Processing 4.3.1.
 OS : Mac /
 
 ## Utilisation
