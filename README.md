@@ -25,4 +25,4 @@ S'exécute via Arduino IDE 2.3.4 et Processing 4.3.1.
 Youtube / Arduino 
 
 ## Contributions
-Aidée par un camarade pour le code review 
+Aidée par un camarade pour le code review
