@@ -26,3 +26,4 @@ Youtube / Arduino
 
 ## Contributions
 Aidée par un camarade pour le code review
+* Celinelylou n'est pas contributrice de ce projet, elle était seulement détentrice de mon pc actuel et possédait la même clef SSH que j'ai actuellement. 
