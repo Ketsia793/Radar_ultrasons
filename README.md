@@ -1,7 +1,7 @@
 **Radar à ultrasons**
 
 ## À propos
-Il s'agit ici d'un projet Arduino qui m'a introduite plus amplement au concept de l'IoT. Il est inspiré d'un tuto mais refondé car il y avait des erreurs dans les lignes de codes tant dans le Arduino cloud que
+Il s'agit ici d'un projet Arduino qui m'a introduite plus amplement au concept du système embarqué. Il est inspiré d'un tuto mais refondé car il y avait des erreurs dans les lignes de codes tant dans le Arduino cloud que
 dans le processing cloud. 
 Erreurs repérées puis corrigées :
 - au niveau des boucles for dans le Arduino cloud qui assurent le bon mouvement du servomoteur sans que celui-ci soit saccadé.
