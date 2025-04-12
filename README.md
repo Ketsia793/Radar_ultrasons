@@ -12,6 +12,8 @@ Erreurs repérées puis corrigées :
 État du projet : Prototype /
 Nombre de participants : 1 (solo) /
 Technologies : C++/Java / 
+Protocole de communication : UART
+Microcontroleur : UNO R4
 Refactorisation : Non /
 Responsivité : Non /
 UX/UI : Non /
